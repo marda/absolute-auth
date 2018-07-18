@@ -1,0 +1,14 @@
+"repositories": [
+  {
+    "type": "package",
+    "package": {
+      "name": "absolute/module/auth",
+      "version": "dev-master",
+      "source": {
+        "url": "git://github.com/marda/absolute-module-auth.git",
+        "type": "git",
+        "reference": "master"
+      }
+    }
+  }
+],
