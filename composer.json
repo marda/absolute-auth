@@ -1,14 +1,7 @@
-"repositories": [
-  {
-    "type": "package",
-    "package": {
-      "name": "absolute/module/auth",
-      "version": "dev-master",
-      "source": {
-        "url": "git://github.com/marda/absolute-module-auth.git",
-        "type": "git",
-        "reference": "master"
-      }
-    }
-  }
-],
+{
+  "name": "absolute.app/module-auth",
+  "description": "Absolute/Module/Auth",
+  "type": "package",
+  "license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+  "minimum-stability": "dev"
+}
