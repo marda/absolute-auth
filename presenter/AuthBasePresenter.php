@@ -2,7 +2,7 @@
 
 namespace Absolute\Module\Auth\Presenter;
 
-use Absolute\Presenter\BaseRestPresenter;
+use Absolute\Core\Presenter\BaseRestPresenter;
 
 class AuthBasePresenter extends BaseRestPresenter
 {
